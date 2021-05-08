@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Users": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Key": "Value",
+        "dbConnectionString": "\"Server=(localdb)\\\\mssqllocaldb;Database=Users;Trusted_Connection=True;MultipleActiveResultSets=true\""
+      }
+    }
+  }
+}
